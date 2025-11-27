@@ -1,0 +1,5 @@
+{
+  "name": "M6A Sports Analytics",
+  "description": "An advanced sports analytics framework (M6A) that quantifies athlete and team performance using a 6-attribute hexagonal model powered by Gemini AI.",
+  "requestFramePermissions": []
+}
