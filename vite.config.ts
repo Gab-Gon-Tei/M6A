@@ -5,6 +5,11 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
+      // --- ADICIONE ESTA LINHA EXATAMENTE AQUI ---
+      // Isso diz ao site que ele mora na pasta "/M6A/" e não na raiz
+      base: "/M6A/", 
+      // -------------------------------------------
+
       server: {
         port: 3000,
         host: '0.0.0.0',
