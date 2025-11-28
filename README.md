@@ -96,7 +96,6 @@ A integridade do M6A depende de fontes primárias de elite processadas por LLM.
 
 -----
 
-\<div align="center"\>
-\<sub\>Documentação Técnica - Versão 1.0 (Beta)\</sub\><br>
-\<sub\>Data de Publicação: 26/11/2025\</sub\>
-\</div\>
+
+Documentação Técnica - Versão 1.0 (Beta)
+Data de Publicação: 26/11/2025
