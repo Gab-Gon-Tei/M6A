@@ -4,6 +4,7 @@
 
 O **M6A** é um framework analítico agnóstico ao esporte projetado para quantificar a qualidade e o desempenho de atletas e equipes. Nosso objetivo é eliminar o viés subjetivo ("olhômetro") e substituí-lo por uma pontuação de **0 a 100** fundamentada em evidências estatísticas avançadas.
 
+
 -----
 
 ## 🎯 Objetivo
